@@ -1,0 +1,5 @@
+Implement user authentication using JWT or JSON Web Token Introduction 
+Create user profile page with editable fields
+Integrate user profile with database
+Implement password reset functionality
+Write unit tests for authentication and user profile features
