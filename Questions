@@ -1,0 +1,14 @@
+What went well this sprint?
+- The team made significant progress in implementing user authentication using JWT/JSON Web Token. We managed to complete the authentication flow and ensure secure handling of user credentials.
+- The user profile page layout and design were finalized, and the frontend UI implementation has started.
+What did not go well for this sprint?
+- Integrating the user profile page with the backend became more challenging as time went on. We faced some issues with data persistence and API points.
+- Unit testing took more time than expected due to the complexity of the authentication flow and user profile features and requirements use cases.
+Did you complete the tasks you planned to complete?
+- We completed the implementation of user authentication using JWT/JSON Web Token and made progress on the user profile page. However, we couldn't finish all planned tasks, such as integrating the user profile with the database and implementing password reset and email reset.
+Did you experience any unforeseen technical issues that prevented your progress? Please describe them.
+- Yes, we encountered issues with setting up the database for user profiles, which caused delays in integrating the frontend with the backend. Additionally, we faced challenges in writing effective unit tests for the authentication process, leading to more time spent debugging and refining test cases.
+Do you feel you are on-track to complete your project? If no:
+- While we made progress, we're slightly behind schedule due to the uchallenges encountered in this sprint. To get back on track though, we need to change our development process and give more time for testing and debugging.
+How do you plan to change your development process, and why? OR how will you modify your product and why?
+- We plan to allocate more time for testing and debugging in the upcoming sprint to avoid delays. Also we'll reassess our database design to ensure smoother integration with the frontend.
